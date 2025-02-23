@@ -31,32 +31,35 @@ A simple **CRUD (Create, Read, Update, Delete) app** using **sqflite** for local
 | `sqflite`       | SQLite database for storing local user records. |  
 | `path` | Handles file path operations.  |  
 
-Install dependencies using:  
+
+### Install dependencies using:  
 ```sh
 flutter pub get
 ```
 
+
 ## Installation
 
-1️. Clone the repository:
+1️.Clone the repository:
 ```bash
 git clone https://github.com/your-username/localdb-manager-app.git  # Replace with your actual repository URL
 ```
 
-2️. Navigate to the project directory:
+2️.Navigate to the project directory:
 ```bash
 cd localdb-manager-app
 ```
 
-3. Install dependencies:
+3.Install dependencies:
 ```bash
 flutter pub get
 ```
 
-4. Run the app:
+4.Run the app:
 ```bash
 flutter run
 ```
+
 
 ## 💡 Usage Guide
 
