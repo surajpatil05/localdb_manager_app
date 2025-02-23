@@ -1,0 +1,7 @@
+{
+    "cmake.ignoreCMakeListsMissing": true,
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cSpell.words": [
+        "localdb"
+    ]
+}
