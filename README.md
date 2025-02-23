@@ -17,6 +17,7 @@ A simple **CRUD (Create, Read, Update, Delete) app** using **sqflite** for local
   <img src="./app_screenshots/home_screen.png" alt="Home Screen" width="30%"/>  
   <img src="./app_screenshots/add_user.png" alt="Add User" width="30%"/>  
   <img src="./app_screenshots/edit_user.png" alt="Edit User" width="30%"/>  
+  <img src="./app_screenshots/updated_user.png" alt="Edit User" width="30%"/>  
   <img src="./app_screenshots/delete_user.png" alt="Delete User" width="30%"/>  
   <img src="./app_screenshots/users_list.png" alt="User List" width="30%"/>  
 </p>
